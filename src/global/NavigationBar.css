@@ -1,0 +1,14 @@
+.btn-outline-danger{
+    background-color: #ffffff !important;
+    color: #FF3F55 !important;
+}
+
+.btn-danger{
+    background-color: #FF3F55 !important;
+    border-color: #FF3F55 !important;
+}
+
+.btn-danger:hover{
+    background-color: #FF7988 !important;
+    border-color: #FF7988 !important;
+}

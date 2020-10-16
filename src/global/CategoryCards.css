@@ -1,0 +1,42 @@
+h6{
+    color: grey;
+}
+
+.catCard{
+    border-radius: 20px;
+    padding: 60px 45px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.bg-blue{
+    background-color: rgb(107, 206, 187);
+}
+
+.bg-green{
+    background-color: rgb(163, 206, 113);
+}
+
+.bg-deepblue{
+    background-color: rgb(50, 127, 182);
+}
+
+.bg-orange{
+    background-color: rgb(251, 134, 54);
+}
+
+.bg-yellow{
+    background-color: rgb(255, 210, 0)
+}
+
+.bg-pink{
+    background-color: rgb(253, 125, 145);
+}
+
+.bg-lightblue{
+    background-color: rgb(32, 195, 243);
+}
+
+.bg-purple{
+    background-color: rgb(161, 117, 217);
+}

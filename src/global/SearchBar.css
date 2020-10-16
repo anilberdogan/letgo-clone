@@ -1,0 +1,13 @@
+.search-bar{
+    display: flex !important;
+    background-color: #F5F5F5 !important;
+    color: #949494 !important;
+    border: none !important;
+    border-radius: 8px;
+    width: 100%
+}
+
+.search-icon{
+    background-color: #F5F5F5 !important;
+    color: #949494 !important;
+}
