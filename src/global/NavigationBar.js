@@ -5,6 +5,7 @@ import "./NavigationBar.css";
 import MenuIcon from '@material-ui/icons/Menu';
 import IconButton from '@material-ui/core/IconButton';
 import SearchBar from './SearchBar';
+import {Link} from 'react-router-dom';
 
 
 function NavigationBar() {
@@ -16,10 +17,11 @@ function NavigationBar() {
         <Col>
           <Container fluid>
             <Row>
+                <Link to='/'>
                 <Col xs="auto" className='text-danger'>
                   <img src='https://venturebeat.com/wp-content/uploads/2018/07/1_RDCnRFpCJNXSgc1swCaLZw.png?fit=400%2C239&strip=all' width='72px' alt='resim' />
                 </Col>
-                
+                </Link>
                 <Col >
                   <SearchBar/>
                 </Col>

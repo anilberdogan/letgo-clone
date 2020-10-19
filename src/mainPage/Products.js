@@ -9,6 +9,8 @@ function Products() {
         city: "Karabuk",
         desc: "Pompa",
         category: "Ev ve Bahçe",
+        long_desc: 'super pompa',
+        slug : 'pompa',
         price: "₺50"
     },
     {
@@ -16,6 +18,8 @@ function Products() {
         city: "Bursa",
         desc: "Yeni Araba",
         category: "Araba",
+        long_desc: 'super araba almalisiniz',
+        slug: 'araba',
         price: "₺10.000"
     },
     {
@@ -23,6 +27,8 @@ function Products() {
         city: "istanbul",
         desc: "muthis laptop",
         category: "Elektronik",
+        long_desc: 'laptop kacmaz 50 tl',
+        slug: 'laptop',
         price: "₺60"
     },
     {
@@ -30,6 +36,8 @@ function Products() {
         city: "Manisa",
         desc: "Yangin hortumu",
         category: "Ev ve Bahçe",
+        long_desc: 'hortum gibi hortum',
+        slug: 'hortum',
         price: "₺100"
     }
     ]

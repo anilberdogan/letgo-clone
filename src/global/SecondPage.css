@@ -1,0 +1,28 @@
+.seller {
+    padding: 16px 16px;
+    width: 100%;
+}
+
+.message_input{
+    display: flex !important;
+    background-color: #F5F5F5 !important;
+    color: #949494 !important;
+    border: none !important;
+    border-radius: 8px;
+    width: 100%
+}
+
+.text_area{
+    display:flex;
+}
+
+.second-page{
+    margin-bottom: 6%;
+}
+
+.photo{
+    border: 2px solid rgb(158, 154, 154);
+    height: 540px;
+    
+}
+

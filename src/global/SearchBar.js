@@ -1,7 +1,7 @@
 import React from 'react'
 import {Input } from "reactstrap";
-import "./SearchBar.css";
 import SearchIcon from '@material-ui/icons/Search';
+import './SearchBar.css'
 
 function SearchBar() {
     
